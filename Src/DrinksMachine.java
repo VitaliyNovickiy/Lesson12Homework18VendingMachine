@@ -1,5 +1,10 @@
-public class DrinksMachine {
-    public static void main(String[] args) {
+public enum DrinksMachine {
 
-    }
+
+        COFFEE,
+        TEA,
+        LEMONADE,
+        MOJITO,
+        MINERAL,
+        COCA_COLA
 }
